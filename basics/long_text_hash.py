@@ -1,0 +1,3 @@
+
+
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit lorem in viverra elementum. Vivamus elementum lacus nec mi maximus blandit. Vestibulum vitae urna a massa dapibus euismod condimentum ut enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam ultricies, erat ut vulputate viverra, ante quam vestibulum urna, quis rutrum tellus lacus et est. Nulla in elit risus. Sed ultrices purus non porta fringilla. Nunc ac lacinia elit. Integer vel venenatis risus. Maecenas scelerisque libero nec turpis rhoncus pulvinar. Phasellus nibh tortor, interdum eget tellus id, malesuada rhoncus nibh. In facilisis massa ipsum. Fusce quis euismod eros, eu blandit mauris."
